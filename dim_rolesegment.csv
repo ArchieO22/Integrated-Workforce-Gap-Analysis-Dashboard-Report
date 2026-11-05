@@ -1,0 +1,10 @@
+Role_Segment_ID,Role_Segment,Department,Reskilling_Potential,Mobility_Pool_Count,Notes
+1,Data Engineers,Data & Analytics,Medium,8,Primary gap: Cloud/Infra & Cybersecurity
+2,Cybersecurity Specialists,Information Security,Low,5,Relative strength in Security only
+3,Digital Client Advisors,Client Services,High,45,Primary internal reskilling pool
+4,Cloud/DevOps Engineers,IT Infrastructure,Medium,6,Cloud/Infra strength; upskill path to Data
+5,AI/ML Engineers,Data & Analytics,Low,3,Highest attrition risk segment
+6,RegTech Analysts,Risk & Compliance,High,22,Strong redeployment from Risk & Compliance
+7,Traditional Advisors,Client Services,High,90,Conversion pool for Digital Client pathway
+8,IT Infrastructure,IT Operations,Medium,15,Reskill path for Cloud/DevOps & Data
+9,Risk & Compliance,Risk & Compliance,High,28,Primary redeployment pool for RegTech

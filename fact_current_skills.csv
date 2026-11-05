@@ -1,0 +1,37 @@
+Role_Segment_ID,Skill_Domain_ID,Coverage_Score,Benchmark_Score,Skill_Gap_Delta,Gap_Status
+1,101,4.2,4.0,0.2,Proficient / Strength
+1,102,2.8,4.0,-1.2,Significant Gap
+1,103,2.5,4.0,-1.5,Significant Gap
+1,104,1.8,4.0,-2.2,Critical Gap
+1,105,3.1,4.0,-0.9,Developing
+1,106,2.2,4.0,-1.8,Significant Gap
+2,101,2.5,4.0,-1.5,Significant Gap
+2,102,2.9,4.0,-1.1,Significant Gap
+2,103,4.3,4.0,0.3,Proficient / Strength
+2,104,1.5,4.0,-2.5,Critical Gap
+2,105,2.1,4.0,-1.9,Significant Gap
+2,106,1.8,4.0,-2.2,Critical Gap
+3,101,2.1,4.0,-1.9,Significant Gap
+3,102,1.5,4.0,-2.5,Critical Gap
+3,103,1.8,4.0,-2.2,Critical Gap
+3,104,3.9,4.0,-0.1,Developing
+3,105,1.4,4.0,-2.6,Severe Gap
+3,106,2.8,4.0,-1.2,Significant Gap
+4,101,3.1,4.0,-0.9,Developing
+4,102,4.1,4.0,0.1,Proficient / Strength
+4,103,2.8,4.0,-1.2,Significant Gap
+4,104,1.6,4.0,-2.4,Critical Gap
+4,105,2.9,4.0,-1.1,Significant Gap
+4,106,1.9,4.0,-2.1,Critical Gap
+5,101,4.4,4.0,0.4,Proficient / Strength
+5,102,2.6,4.0,-1.4,Significant Gap
+5,103,2.2,4.0,-1.8,Significant Gap
+5,104,1.9,4.0,-2.1,Critical Gap
+5,105,4.2,4.0,0.2,Proficient / Strength
+5,106,1.7,4.0,-2.3,Critical Gap
+6,101,2.8,4.0,-1.2,Significant Gap
+6,102,1.9,4.0,-2.1,Critical Gap
+6,103,2.1,4.0,-1.9,Significant Gap
+6,104,2.5,4.0,-1.5,Significant Gap
+6,105,1.6,4.0,-2.4,Critical Gap
+6,106,3.8,4.0,-0.2,Developing

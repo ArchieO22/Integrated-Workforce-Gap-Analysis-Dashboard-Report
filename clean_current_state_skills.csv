@@ -1,0 +1,10 @@
+Role_Segment,Current_Headcount,Avg_Tenure_Yrs,Data_Analytics_Coverage_1to5,Cloud_Infra_Coverage_1to5,Cybersecurity_Coverage_1to5,Digital_Client_Coverage_1to5,AI_ML_Coverage_1to5,RegTech_Coverage_1to5,Overall_Avg_Score,Reskilling_Potential_HML,Internal_Mobility_Pool_Count,Notes
+Data Engineers,42,3.2,4.2,2.8,2.5,1.8,3.1,2.2,2.77,M,8,Primary gap: Cloud/Infra and Cybersecurity domains; Data & Analytics is relative strength
+Cybersecurity Specialists,31,4.1,2.5,2.9,4.3,1.5,2.1,1.8,2.52,L,5,Relative strength in Cybersecurity domain only; all other domains critically underdeveloped
+Digital Client Advisors,210,6.8,2.1,1.5,1.8,3.9,1.4,2.8,2.25,H,45,Digital Client domain developing; primary internal reskilling candidate pool for DTP
+Cloud/DevOps Engineers,28,2.9,3.1,4.1,2.8,1.6,2.9,1.9,2.73,M,6,Cloud/Infra strength; gap in Digital Client and RegTech; viable upskill path to Data Engineering
+AI/ML Engineers,15,2.4,4.4,2.6,2.2,1.9,4.2,1.7,2.83,L,3,Strong Data Analytics and AI/ML; all other domains underdeveloped; highest attrition risk segment
+RegTech Analysts,38,5.6,2.8,1.9,2.1,2.5,1.6,3.8,2.45,H,22,RegTech domain developing; strong redeployment candidates from Risk & Compliance team
+Traditional Advisors,180,8.2,1.8,1.2,1.5,2.9,1.1,2.6,1.85,H,90,Primary internal conversion pool for Digital Client Advisor pathway; 3-month reskilling program
+IT Infrastructure,95,5.1,2.9,3.8,3.1,1.8,2.0,2.1,2.62,M,15,Cloud/Infra foundation strong; viable reskill path for Cloud/DevOps and Data Engineering roles
+Risk & Compliance,112,6.3,2.2,1.7,2.8,2.3,1.5,4.1,2.43,H,28,RegTech domain strength; primary redeployment pool for RegTech Analyst gaps

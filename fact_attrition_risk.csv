@@ -1,0 +1,7 @@
+Role_Segment_ID,Annual_Attrition_Rate_Pct,Industry_Benchmark_Pct,Vs_Benchmark_Pct,Cumulative_3Yr_Attrition,Avg_Replacement_Cost_USD,Total_3Yr_Replacement_Cost_USD,Composite_Risk_Score,Priority_Rank,Risk_Rating,Recommended_Intervention
+1,18.0,22.0,-4.0,21,270000,5670000,9.2,1,Very High,Retention bonus + equity
+2,16.0,19.0,-3.0,13,247500,3217500,8.8,2,High,Certification sponsorship
+3,13.0,15.0,-2.0,72,95000,6840000,6.4,5,High,Digital career pathway
+4,17.0,20.0,-3.0,12,240000,2880000,8.1,4,High,AWS/Azure certification funding
+5,20.0,23.0,-3.0,7,300000,2100000,8.5,3,Very High,Equity grant + research time
+6,9.0,12.0,-3.0,9,165000,1485000,4.2,6,Low,Standard retention + upskilling
